@@ -1,0 +1,5 @@
+setup.py
+ia_flappy_bird.egg-info/PKG-INFO
+ia_flappy_bird.egg-info/SOURCES.txt
+ia_flappy_bird.egg-info/dependency_links.txt
+ia_flappy_bird.egg-info/top_level.txt
